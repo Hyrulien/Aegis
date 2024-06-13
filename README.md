@@ -31,9 +31,7 @@ pip install easyocr
 pip install pyfiglet
 ```
 
-###### Step 5: Place a .mp4 video of your testings into the folder \TestingVideos\
-
-####### Step 6: Run bot using:
+###### Step 5: Place a .mp4 video of your testings into the folder \TestingVideos\ and run the bot using:
 
 ```sh
 py aegis.py
